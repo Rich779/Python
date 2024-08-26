@@ -1,0 +1,5 @@
+print("Knock,Knock")
+print("Who's there")
+print("Lettuce")
+print("Lettuse who")
+print("Lettuse in, it freeze out here")
